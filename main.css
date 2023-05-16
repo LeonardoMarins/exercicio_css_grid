@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.shoes-2 {
+    margin-left: 5%;
+}
+
 @media screen and (max-width:640px){
     .container {
         background-color: rgb(51, 81, 231);
